@@ -1,3 +1,4 @@
+// import Admin from "./pages/Admin";  // ← capital A
 import { useEffect, useState } from "react";
 import axios from "axios";
 
